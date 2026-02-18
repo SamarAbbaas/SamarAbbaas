@@ -79,7 +79,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:fsc8101@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logoColor=white)](https://github.com/SamarAbbaas)
 
-<img src="https://komarev.com/ghpvc/?username=torvalds&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SamarAbbaas&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
